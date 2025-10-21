@@ -8,8 +8,8 @@ export default async function HomePage() {
       <h1>Home</h1>
       {/* <Acesso /> */}
 
-      {/* <ServerFetch /> */}
-      <ClientFetch />
+      <ServerFetch />
+      {/* <ClientFetch /> */}
     </main>
   );
 }
